@@ -21,12 +21,12 @@
 
 # अगर टाइम हो तो हमारे सोशल मीडिया पेज को भी फॉलो कर सकते हो। 
 
-1. [FOLLOW heyKyaKaru on => YOUTUBE to contribute your support](https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg/featured?view_as=subscriber)
-2. [FOLLOW heyKyaKaru on => FACEBOOK to contribute your support](https://www.facebook.com/heykyakaru/)
-3. [FOLLOW heyKyaKaru on => LINKEDIN to contribute your support](https://www.linkedin.com/in/heykyakaru/)
-4. [FOLLOW heyKyaKaru on => TWITTER to contribute your support](https://twitter.com/heykyakaru)
-5. [FOLLOW heyKyaKaru on => PINTEREST to contribute your support](https://in.pinterest.com/heykyakaru/)
-6. [FOLLOW heyKyaKaru on => TUMBLR to contribute your support](https://www.tumblr.com/settings/blog/heykyakaru)
-7. [FOLLOW heyKyaKaru on => BLOGSPOT to contribute your support](https://heykyakaru.blogspot.com/)
+1. [FOLLOW heyKyaKaru to contribute your support on =>      YOUTUBE <==](https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg/featured?view_as=subscriber)
+2. [FOLLOW heyKyaKaru to contribute your support on ==>     FACEBOOK <==](https://www.facebook.com/heykyakaru/)
+3. [FOLLOW heyKyaKaru to contribute your support on ==>     LINKEDIN <==](https://www.linkedin.com/in/heykyakaru/)
+4. [FOLLOW heyKyaKaru to contribute your support on ==>     TWITTER <==](https://twitter.com/heykyakaru)
+5. [FOLLOW heyKyaKaru to contribute your support on ==>     PINTEREST <==](https://in.pinterest.com/heykyakaru/)
+6. [FOLLOW heyKyaKaru to contribute your support on ==>     TUMBLR <==](https://www.tumblr.com/settings/blog/heykyakaru)
+7. [FOLLOW heyKyaKaru to contribute your support on ==>     BLOGSPOT <==](https://heykyakaru.blogspot.com/)
 
 
