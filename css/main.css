@@ -1,0 +1,15 @@
+/* index crousal */
+.carousel-item img{
+    height: 800px;
+  }
+
+/* Media query */
+@media (min-width: 260px) and (max-width: 500px){
+	.carousel-item img{
+		height: 400px;
+	}
+	.site-block-profile-pic img {
+		margin-top: 50px;
+	}
+
+}

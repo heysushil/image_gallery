@@ -1,0 +1,27 @@
+# BEGIN WordPress
+
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /index.php [L]
+
+RewriteCond %{HTTPS} !=off
+RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1 [R=301,L]
+
+</IfModule>
+
+
+# END WordPress
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,26 @@
+[24-Oct-2019 12:15:22 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[24-Oct-2019 12:15:36 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[24-Oct-2019 12:15:51 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[24-Oct-2019 12:17:31 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[24-Oct-2019 12:53:07 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[24-Oct-2019 12:53:26 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[24-Oct-2019 13:23:02 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[24-Oct-2019 13:23:56 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[25-Oct-2019 12:10:51 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[25-Oct-2019 12:10:55 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[25-Oct-2019 12:17:40 Etc/GMT] PHP Warning:  unlink(../images/191024010559painting-banner.jpg): No such file or directory in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/hdetail.php on line 226
+[30-Oct-2019 07:56:11 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[30-Oct-2019 07:56:35 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[30-Oct-2019 07:57:13 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[30-Oct-2019 11:22:45 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[30-Oct-2019 11:22:50 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[02-Nov-2019 06:14:07 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[02-Nov-2019 06:14:42 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[06-Nov-2019 18:39:03 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[23-Nov-2019 08:57:55 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[05-Dec-2019 10:25:26 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[05-Dec-2019 10:26:04 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[05-Dec-2019 10:26:34 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[05-Dec-2019 10:28:23 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
+[10-Mar-2020 15:34:50 Etc/GMT] PHP Notice:  Undefined index: name in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/header.php on line 4
+[10-Mar-2020 15:36:05 Etc/GMT] PHP Notice:  Undefined index: logout in /home/aidmove8/public_html/DAYENBAYENART.COM/admin/home/detail.php on line 26
