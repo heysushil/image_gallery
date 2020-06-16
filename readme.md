@@ -1,6 +1,7 @@
 # इमेज गॅलरी प्रोजेक्ट । PHP Project (Image Gallery)
 
-## Contact For College Project / Reporting / Document / Project Training @ heykyakaru@gmail.com
+## Hey if you want to complete your project and need help to complete it. Contact at given email id.
+## Contact For College Project / Project Report / Documentation / Project Training @ heykyakaru@gmail.com
 
 ## YouTube Videos and related Playlist Details which helps to better understand the code on heyKyaKaru channel
 
@@ -10,6 +11,8 @@
 4. [PHP Projects Playlist YouTube - Python Tutorial Couse Hindi Vido](https://www.youtube.com/watch?v=aMVVRYaT_NA&list=PLK6wiPavf7QiEj6IPc3lkjz1wR4w9RM6B)
 5. [About Our Platform Playlist YouTube - Python Tutorial Couse Hindi Vido](https://www.youtube.com/watch?v=pWEUg4AdbV0&list=PLK6wiPavf7QhMIbSQH56_qgtMvl30TSmj)
 6. [Live Python Couser in Hindi Playlist YouTube - Python Tutorial Couse Hindi Vido](https://www.youtube.com/watch?v=W1s0cdaYOa0&list=PLK6wiPavf7QgnXqPf9jBEVr1iNUxiVoHG)
+
+
 
 
 [प्रोजेक्ट डीटेल विडिओ ](https://www.youtube.com/watch?v=aMVVRYaT_NA)
