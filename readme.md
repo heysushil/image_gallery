@@ -41,6 +41,8 @@
 1. [GitHub से रीपाज़टॉरी कैसे डाउनलोड करे](https://www.youtube.com/watch?v=LUyVs2MTlTM&list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP&index=2&t=0s)
 2. [GitHub टूटोरिल प्लेलिस्ट](https://www.youtube.com/playlist?list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP)
 
+> Admin Login details: emailid: user@heykyakaru.youtube and password: heykyakaru
+
 # अगर टाइम हो तो हमारे सोशल मीडिया पेज को भी फॉलो कर सकते हो। 
 
 1. [FOLLOW heyKyaKaru to contribute your support on ==>      YOUTUBE    <==](https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg/featured?view_as=subscriber)
