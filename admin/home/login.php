@@ -138,12 +138,18 @@ span.psw {
     </div>
 
     <div class="container">
-      <label for="uname"><b>Username</b></label>
+      <label for="uname"><b>Email Id</b></label>
       <input type="email" placeholder="Enter Your Email ID" name="email" required>
 
       <label for="psw"><b>Password</b></label>
       <input type="password" placeholder="Enter Password" name="password" required>
-      <input type="submit" name="login">
+      <input type="submit" name="loginData" value="Login">
+
+      <p style="background-color: #f44336;">Default login details:
+        <br> 
+        <b>Email id = heysushil@youtube.com</b><br>
+        <b>Password = heysushil</b>
+      </p>
       <!-- <button type="submit" name="login">Login</button> -->
       <!-- <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me

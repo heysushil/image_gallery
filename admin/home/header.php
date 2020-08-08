@@ -1,7 +1,7 @@
 <?php
   session_start();
   // print_r($_SESSION);exit();
-  if($_SESSION['name'] != 'ADMIN'){
+  if($_SESSION['name'] != 'heysushil'){
     header('Location:login.php?message=wrong-try');
   }
   // print_r($_SESSION);

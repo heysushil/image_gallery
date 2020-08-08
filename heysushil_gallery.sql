@@ -1,15 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.8.3
+-- version 4.6.5.2
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
--- Generation Time: Apr 15, 2020 at 07:43 AM
--- Server version: 5.6.41-84.1-log
--- PHP Version: 7.2.7
+-- Host: 127.0.0.1
+-- Generation Time: Aug 08, 2020 at 06:18 PM
+-- Server version: 10.1.21-MariaDB
+-- PHP Version: 7.1.1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -19,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `aidmove8_daibai`
+-- Database: `heysushil_gallery`
 --
 
 -- --------------------------------------------------------
@@ -40,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `name`, `email`, `password`) VALUES
-(1, 'ADMIN', 'user@heykyakaru.youtube', 'heykyakaru');
+(1, 'heysushil', 'heysushil@youtube.com', 'heysushil');
 
 -- --------------------------------------------------------
 
@@ -59,6 +57,9 @@ CREATE TABLE `covers` (
 -- Dumping data for table `covers`
 --
 
+INSERT INTO `covers` (`cov_id`, `covTitile`, `covShortDetail`, `covImgName`) VALUES
+(9, 'PHP Galllery', 'Welcome to this gallery system', '200808061349image gallery project fee download.png');
+
 -- --------------------------------------------------------
 
 --
@@ -74,6 +75,9 @@ CREATE TABLE `imges` (
 --
 -- Dumping data for table `imges`
 --
+
+INSERT INTO `imges` (`img_id`, `cov_id`, `img`) VALUES
+(108, 9, '200808061442heysushil youtube channel introduction.png');
 
 --
 -- Indexes for dumped tables
@@ -106,20 +110,16 @@ ALTER TABLE `imges`
 --
 ALTER TABLE `admin`
   MODIFY `admin_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
 --
 -- AUTO_INCREMENT for table `covers`
 --
 ALTER TABLE `covers`
-  MODIFY `cov_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
-
+  MODIFY `cov_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 --
 -- AUTO_INCREMENT for table `imges`
 --
 ALTER TABLE `imges`
-  MODIFY `img_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=94;
-COMMIT;
-
+  MODIFY `img_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=109;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

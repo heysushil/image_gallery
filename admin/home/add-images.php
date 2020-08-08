@@ -17,7 +17,7 @@
                         <p style="color: red;">Choose 1 or more images</p>
                       </div>
                     </div>
-                    <input type="submit" class="btn btn-primary pull-right" name="innerimg" value="Upload Cover">
+                    <input type="submit" class="btn btn-primary pull-right" name="innerimg" value="Upload Images">
                     <!-- <button type="submit" class="btn btn-primary pull-right">Update Profile</button> -->
                     <div class="clearfix"></div>
                   </form>
